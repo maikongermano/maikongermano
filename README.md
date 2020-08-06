@@ -7,7 +7,7 @@
 
 <br/> :heart: Passionate about programming.
 
-<br/> :office: System Analyst at Grupo FLJ Tecnologia.
+<br/> :office: System Analyst at Group FLJ Technology.
 
 <br/> :books: Always looking for new knowledge and knowledge sharing.
 
