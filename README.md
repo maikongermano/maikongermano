@@ -1,4 +1,4 @@
-# Hello, welcome I'm Maikon Germano
+# Hi, welcome I'm Maikon Germano
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@maikongermano-5C73F2?style=flat-square&labelColor=5C73F2&logo=twitter&logoColor=white&link=https://twitter.com/maikongermano)](https://twitter.com/maikongermano) 
