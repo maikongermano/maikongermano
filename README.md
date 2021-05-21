@@ -7,7 +7,7 @@
 
 <br/> :heart: Passionate about programming.
 
-<br/> :office: System Analyst at Group FLJ Technology.
+<br/> :office: developer full-stack.
 
 <br/> :books: Always looking for new knowledge and knowledge sharing.
 
