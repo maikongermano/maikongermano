@@ -11,5 +11,4 @@
 
 <br/> :books: Always looking for new knowledge and knowledge sharing.
 
-<br/> :computer: ReactJs, Node.Js, React Native, Typescript,
-SQL & NoSQL
+<br/> :computer: Java | Spring | Angular | AWS | PLSQL | React | Node
